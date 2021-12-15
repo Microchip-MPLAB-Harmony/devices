@@ -41,6 +41,10 @@ productFamilies:
             - name: "ATSAMA5D28CD1G"
             - name: "ATSAMA5D28CLD1G"
             - name: "ATSAMA5D28CLD2G"
+        - name: "SAMA7G54"
+          keywords: "mpu cortex-a7 industrial"
+          devices:
+            - name: "SAMA7G54"
     - name: "ATSAM"
       regex: "^ATSAM.*"
       productSeries:

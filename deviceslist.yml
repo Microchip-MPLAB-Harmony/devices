@@ -784,3 +784,11 @@ productFamilies:
         keywords: "mips wireless wifi"
         devices:
           - name: "WFI32E01"
+    - name: "LAN9255"
+      regex: "^LAN9255.*"
+      product_series:
+        - name: "LAN9255"
+          devices:
+            - name: "LAN9255ZMX018"
+            - name: "LAN9255ZMX019"
+            - name: "LAN9255ZMX020"

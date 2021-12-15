@@ -371,6 +371,10 @@ productFamilies:
           keywords: "cortex-m7 aerospace"
           devices:
             - name: "ATSAMRH71F20C"
+        - name: "ATSAMRH707"
+          keywords: "cortex-m7 aerospace"
+          devices:
+            - name: "ATSAMRH707F18A"
     - name: "PIC32MX"
       regex: "^PIC32MX.*"
       productSeries:

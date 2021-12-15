@@ -769,7 +769,21 @@ productFamilies:
         - name: "PIC32CX SG"
           keywords: "cortex-m4 industrial security"
           devices:
-            - name: "PIC32CX1025SG60128"            
+            - name: "PIC32CX1025SG60128"
+        - name: "PIC32CX BZ"
+          keywords: "cortex-m4 wireless"
+          devices:
+            - name: "PIC32CX1012BZ24032"
+            - name: "PIC32CX1012BZ25032"
+            - name: "PIC32CX1012BZ25048"
+    - name: "WBZ"
+      regex: "^WBZ[34]5.*"
+      product_series:
+        - name: "WBZ"
+          keywords: "cortex-m4 wireless"
+          devices:
+            - name: "WBZ450"
+            - name: "WBZ451"
     - name: "WLR"
       regex: "^WLR.*"
       productSeries:

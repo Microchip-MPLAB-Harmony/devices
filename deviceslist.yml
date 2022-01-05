@@ -2,10 +2,11 @@
 # This file must be updated only by Microchip employees
 #
 
-product_families:
+formatVersion: "1.0.0"
+productFamilies:
     - name: "SAM"
       regex: "^SAM.*"
-      product_series:
+      productSeries:
         - name: "SAM9X60"
           keywords: "mpu arm9 industrial"
           devices:
@@ -32,7 +33,7 @@ product_families:
             - name: "ATSAMA5D28CLD2G"
     - name: "ATSAM"
       regex: "^ATSAM.*"
-      product_series:
+      productSeries:
         - name: "ATSAMC20"
           keywords: "cortex-m0+ industrial"
           devices:
@@ -372,7 +373,7 @@ product_families:
             - name: "ATSAMRH71F20C"
     - name: "PIC32MX"
       regex: "^PIC32MX.*"
-      product_series:
+      productSeries:
         - name: "PIC32MX1"
           keywords: "mips industrial"
           devices:
@@ -516,7 +517,7 @@ product_families:
             - name: "PIC32MX795F512L"
     - name: "PIC32MK"
       regex: "^PIC32MX.*"
-      product_series:
+      productSeries:
         - name: "PIC32MK"
           keywords: "mips motorcontrol"
           devices:
@@ -550,7 +551,7 @@ product_families:
             - name: "PIC32MK1024MCM100"
     - name: "PIC32MZ"
       regex: "^PIC32MZ.*"
-      product_series:
+      productSeries:
         - name: "PIC32MZ EF"
           keywords: "mips industrial connectivity"
           devices:
@@ -683,7 +684,7 @@ product_families:
             - name: "PIC32MZ1025W104132"
     - name: "PIC32MM"
       regex: "^PIC32MX.*"
-      product_series:
+      productSeries:
         - name: "PIC32MM"
           keywords: "mips lowpower"
           devices:
@@ -710,7 +711,7 @@ product_families:
             - name: "PIC32MM0256GPM064"
     - name: "PIC32C"
       regex: "^PIC32C.*"
-      product_series:
+      productSeries:
         - name: "PIC32CM MC00"
           keywords: "cortex-m0+ industrial motorcontrol"
           devices:
@@ -722,14 +723,14 @@ product_families:
             - name: "PIC32CM6408MC00048"
     - name: "WLR"
       regex: "^WLR.*"
-      product_series:
+      productSeries:
         - name: "WLR"
           keywords: "cortex-m0+ wireless lora"
           devices:
             - name: "WLR089U0"
     - name: "WFI32"
       regex: "^WFI32.*"
-      product_series:
+      productSeries:
       - name: "WFI32"
         keywords: "mips wireless wifi"
         devices:

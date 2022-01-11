@@ -830,7 +830,7 @@ productFamilies:
             - name: "PIC32CX1012BZ25048"
     - name: "WBZ"
       regex: "^WBZ[34]5.*"
-      product_series:
+      productSeries:
         - name: "WBZ"
           keywords: "cortex-m4 wireless"
           devices:
@@ -852,7 +852,7 @@ productFamilies:
           - name: "WFI32E01"
     - name: "LAN9255"
       regex: "^LAN9255.*"
-      product_series:
+      productSeries:
         - name: "LAN9255"
           devices:
             - name: "LAN9255ZMX018"

@@ -564,7 +564,7 @@ productFamilies:
             - name: "PIC32MX795F512H"
             - name: "PIC32MX795F512L"
     - name: "PIC32MK"
-      regex: "^PIC32MX.*"
+      regex: "^PIC32MK.*"
       productSeries:
         - name: "PIC32MK"
           keywords: "mips motorcontrol"
@@ -731,7 +731,7 @@ productFamilies:
           devices:
             - name: "PIC32MZ1025W104132"
     - name: "PIC32MM"
-      regex: "^PIC32MX.*"
+      regex: "^PIC32MM.*"
       productSeries:
         - name: "PIC32MM"
           keywords: "mips lowpower"

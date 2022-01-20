@@ -828,6 +828,8 @@ productFamilies:
             - name: "PIC32CX1012BZ24032"
             - name: "PIC32CX1012BZ25032"
             - name: "PIC32CX1012BZ25048"
+            - name: "PIC32CX5109BZ31032"
+            - name: "PIC32CX5109BZ31048"
     - name: "WBZ"
       regex: "^WBZ[34]5.*"
       productSeries:
@@ -836,6 +838,8 @@ productFamilies:
           devices:
             - name: "WBZ450"
             - name: "WBZ451"
+            - name: "WBZ350"
+            - name: "WBZ351"
     - name: "WLR"
       regex: "^WLR.*"
       productSeries:

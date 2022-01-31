@@ -862,3 +862,11 @@ productFamilies:
             - name: "LAN9255ZMX018"
             - name: "LAN9255ZMX019"
             - name: "LAN9255ZMX020"
+    - name: "CEC"
+      regex: "^CEC.*"
+      productSeries:
+        - name: "CEC1736"
+          devices:
+            - name: "CEC1736_S0_SX"
+            - name: "CEC1736_S0_2ZW"
+            - name: "CEC1736_S0_2HW"

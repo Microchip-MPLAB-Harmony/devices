@@ -10,6 +10,7 @@ productFamilies:
         - name: "SAM9X60"
           keywords: "mpu arm9 industrial"
           devices:
+            - name: "SAM9X60"
             - name: "SAM9X60D1G"
             - name: "SAM9X60D5M"
             - name: "SAM9X60D6K"

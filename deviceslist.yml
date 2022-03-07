@@ -598,6 +598,9 @@ productFamilies:
             - name: "PIC32MK1024MCF100"
             - name: "PIC32MK1024MCM064"
             - name: "PIC32MK1024MCM100"
+            - name: "PIC32MK0128MCA028"
+            - name: "PIC32MK0128MCA032"
+            - name: "PIC32MK0128MCA048"            
     - name: "PIC32MZ"
       regex: "^PIC32MZ.*"
       productSeries:

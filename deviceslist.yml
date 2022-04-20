@@ -42,6 +42,7 @@ productFamilies:
             - name: "ATSAMA5D28CD1G"
             - name: "ATSAMA5D28CLD1G"
             - name: "ATSAMA5D28CLD2G"
+            - name: "ATSAMA5D29"
         - name: "SAMA7G54"
           keywords: "mpu cortex-a7 industrial"
           devices:

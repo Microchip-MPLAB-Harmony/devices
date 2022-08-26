@@ -856,9 +856,9 @@ productFamilies:
             - name: "PIC32CK2051GC01064"
             - name: "PIC32CK2051GC01100"
             - name: "PIC32CK2051GC01144"
-         - name: "PIC32CK SG00"
-           keywords: "cortex-m33 industrial security"
-           devices:
+        - name: "PIC32CK SG00"
+          keywords: "cortex-m33 industrial security"
+          devices:
             - name: "PIC32CK0512SG00064"
             - name: "PIC32CK0512SG00100"
             - name: "PIC32CK1025SG00064"
@@ -866,9 +866,9 @@ productFamilies:
             - name: "PIC32CK2051SG00064"
             - name: "PIC32CK2051SG00100"
             - name: "PIC32CK2051SG00144"
-         - name: "PIC32CK SG01"
-           keywords: "cortex-m33 industrial security"
-           devices:
+        - name: "PIC32CK SG01"
+          keywords: "cortex-m33 industrial security"
+          devices:
             - name: "PIC32CK0512SG01064"
             - name: "PIC32CK0512SG01100"
             - name: "PIC32CK1025SG01064"
@@ -876,9 +876,9 @@ productFamilies:
             - name: "PIC32CK2051SG01064"
             - name: "PIC32CK2051SG01100"
             - name: "PIC32CK2051SG01144"
-         - name: "PIC32CK SG00"
-           keywords: "hardware security"
-           devices:
+        - name: "PIC32CK SG00"
+          keywords: "hardware security"
+          devices:
             - name: "PIC32CK0512SG00064S1"
             - name: "PIC32CK0512SG00100S1"
             - name: "PIC32CK1025SG00064S1"
@@ -886,9 +886,9 @@ productFamilies:
             - name: "PIC32CK2051SG00064S1"
             - name: "PIC32CK2051SG00100S1"
             - name: "PIC32CK2051SG00144S1"
-         - name: "PIC32CK SG01"
-           keywords: "hardware security"
-           devices:
+        - name: "PIC32CK SG01"
+          keywords: "hardware security"
+          devices:
             - name: "PIC32CK0512SG01064S1"
             - name: "PIC32CK0512SG01100S1"
             - name: "PIC32CK1025SG01064S1"

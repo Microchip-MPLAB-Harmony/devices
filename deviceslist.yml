@@ -47,6 +47,9 @@ productFamilies:
           keywords: "mpu cortex-a7 industrial"
           devices:
             - name: "SAMA7G54"
+            - name: "SAMA7G54D1G"
+            - name: "SAMA7G54D2G"
+            - name: "SAMA7G54D4G"
     - name: "ATSAM"
       regex: "^ATSAM.*"
       productSeries:

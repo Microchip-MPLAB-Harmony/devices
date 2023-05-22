@@ -1,0 +1,9 @@
+package:
+  format-version: "1.0.0"
+  name: "devices"
+  type: "tools"
+  status: "production"
+  required: true
+  version: "1.0.0"
+
+  dependencies:

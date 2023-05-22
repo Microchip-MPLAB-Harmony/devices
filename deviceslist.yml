@@ -574,7 +574,7 @@ productFamilies:
             - name: "PIC32MK1024MCM100"
             - name: "PIC32MK0128MCA028"
             - name: "PIC32MK0128MCA032"
-            - name: "PIC32MK0128MCA048"            
+            - name: "PIC32MK0128MCA048"
     - name: "PIC32MZ"
       regex: "^PIC32MZ.*"
       productSeries:
@@ -820,7 +820,7 @@ productFamilies:
             - name: "PIC32CX1025MTG64"
             - name: "PIC32CX2051MTG128"
             - name: "PIC32CX2051MTG64"
-            - name: "PIC32CX5112MTG128"          
+            - name: "PIC32CX5112MTG128"
         - name: "PIC32CX MTC"
           keywords: "cortex-m4 dual-core smart energy"
           devices:
@@ -838,7 +838,7 @@ productFamilies:
             - name: "PIC32CX2051MTSH128"
             - name: "PIC32CX2051MTSH128S1"
             - name: "PIC32CX5112MTSH128"
-            - name: "PIC32CX5112MTSH128S1"          
+            - name: "PIC32CX5112MTSH128S1"
         - name: "PIC32CK GC00"
           keywords: "cortex-m33 industrial"
           devices:

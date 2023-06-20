@@ -708,6 +708,7 @@ productFamilies:
           keywords: "mips industrial wireless wifi"
           devices:
             - name: "PIC32MZ1025W104132"
+            - name: "PIC32MZ2051W104132"
     - name: "PIC32MM"
       regex: "^PIC32MM.*"
       productSeries:
@@ -968,6 +969,7 @@ productFamilies:
         keywords: "mips wireless wifi"
         devices:
           - name: "WFI32E01"
+          - name: "WFI32E03"
     - name: "LAN9255"
       regex: "^LAN9255.*"
       productSeries:

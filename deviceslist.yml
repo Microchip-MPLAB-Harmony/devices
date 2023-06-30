@@ -797,6 +797,8 @@ productFamilies:
             - name: "PIC32CM5164JH01048"
             - name: "PIC32CM5164JH01064"
             - name: "PIC32CM5164JH01100"
+            - name: "PIC32CM1216JH01032"
+            - name: "PIC32CM1216JH01048"
         - name: "PIC32CX SG"
           keywords: "cortex-m4 industrial security"
           devices:

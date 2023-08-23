@@ -1008,5 +1008,9 @@ productFamilies:
       productSeries:
         - name: "CEC1736"
           devices:
-            - name: "CEC1736_S0_2ZW"
             - name: "CEC1736_S0_2HW"
+            - name: "CEC1736_S0_2ZW"
+        - name: "CEC1734"
+          devices:
+            - name: "CEC1734_S0_2HW"
+            - name: "CEC1734_S0_2ZW"

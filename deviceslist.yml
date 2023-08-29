@@ -904,6 +904,17 @@ productFamilies:
             - name: "PIC32CK2051SG01064S1"
             - name: "PIC32CK2051SG01100S1"
             - name: "PIC32CK2051SG01144S1"
+        - name: "PIC32CZ CA70"
+          keywords: "cortex-m7 industrial"
+          devices:
+            - name: "PIC32CZ2051CA70064"
+            - name: "PIC32CZ2051CA70100"
+            - name: "PIC32CZ2051CA70144"
+        - name: "PIC32CZ MC70"
+          keywords: "cortex-m7 industrial motorcontrol"
+          devices:
+            - name: "PIC32CZ2051MC70064"
+            - name: "PIC32CZ2051MC70100"
         - name: "PIC32CZ CA80"
           keywords: "cortex-m7 industrial"
           devices:

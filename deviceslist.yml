@@ -988,6 +988,7 @@ productFamilies:
           devices:
             - name: "WBZ450"
             - name: "WBZ451"
+            - name: "WBZ451H"
             - name: "WBZ350"
             - name: "WBZ351"
     - name: "WLR"

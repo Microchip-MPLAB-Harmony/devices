@@ -368,6 +368,7 @@ productFamilies:
             - name: "ATSAMV71Q19B"
             - name: "ATSAMV71Q20B"
             - name: "ATSAMV71Q21B"
+            - name: "ATSAMV71Q21RT"
         - name: "ATSAMR21"
           keywords: "cortex-m0+ wireless zigbee"
           devices:

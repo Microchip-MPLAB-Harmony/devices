@@ -841,6 +841,7 @@ productFamilies:
             - name: "PIC32CX1012BZ25048"
             - name: "PIC32CX5109BZ31032"
             - name: "PIC32CX5109BZ31048"
+            - name: "PIC32CX2051BZ62132"
         - name: "PIC32CX MTG"
           keywords: "cortex-m4 metering"
           devices:
@@ -1014,6 +1015,7 @@ productFamilies:
             - name: "WBZ451H"
             - name: "WBZ350"
             - name: "WBZ351"
+            - name: "WBZ653"
     - name: "WLR"
       regex: "^WLR.*"
       productSeries:

@@ -816,6 +816,15 @@ productFamilies:
             - name: "PIC32CM5164JH01100"
             - name: "PIC32CM1216JH01032"
             - name: "PIC32CM1216JH01048"
+        - name: "PIC32CM GV00"
+          keywords: "cortex-m0+ industrial"
+          devices:
+            - name: "PIC32CM1602GV00032"
+            - name: "PIC32CM1602GV00048"
+            - name: "PIC32CM1602GV00064"
+            - name: "PIC32CM3204GV00032"
+            - name: "PIC32CM3204GV00048"
+            - name: "PIC32CM3204GV00064"
         - name: "PIC32CM GC00"
           keywords: "cortex-m23 industrial"
           devices:

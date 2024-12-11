@@ -929,6 +929,9 @@ productFamilies:
           devices:
             - name: "PIC32CK0512SG01064"
             - name: "PIC32CK0512SG01100"
+            - name: "PIC32CK1012SG01048"
+            - name: "PIC32CK1012SG01064"
+            - name: "PIC32CK1012SG01100"            
             - name: "PIC32CK1025SG01064"
             - name: "PIC32CK1025SG01100"
             - name: "PIC32CK2051SG01064"

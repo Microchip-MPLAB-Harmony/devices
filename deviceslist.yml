@@ -1067,3 +1067,18 @@ productFamilies:
           devices:
             - name: "CEC1734_S0_2HW"
             - name: "CEC1734_S0_2ZW"
+    - name: "PIC32AK"
+      regex: "^PIC32AK.*"
+      productSeries:
+        - name: "PIC32AK GC410xxx"
+          keywords: "PIC32AK"
+          devices:
+            - name: "PIC32AK3208GC41036"
+            - name: "PIC32AK3208GC41048"
+            - name: "PIC32AK3208GC41064"
+            - name: "PIC32AK6416GC41036"
+            - name: "PIC32AK6416GC41048"
+            - name: "PIC32AK6416GC41064"
+            - name: "PIC32AK1216GC41036"
+            - name: "PIC32AK1216GC41048"
+            - name: "PIC32AK1216GC41064"        

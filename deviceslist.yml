@@ -57,7 +57,9 @@ productFamilies:
           devices:
             - name: "SAMA7D65"
             - name: "SAMA7D65D1G"
+            - name: "SAMA7D65D1GN2"
             - name: "SAMA7D65D2G"
+            - name: "SAMA7D65D2GN8"
             - name: "SAMA7D65D4G"
     - name: "ATSAM"
       regex: "^ATSAM.*"
@@ -1081,4 +1083,4 @@ productFamilies:
             - name: "PIC32AK6416GC41064"
             - name: "PIC32AK1216GC41036"
             - name: "PIC32AK1216GC41048"
-            - name: "PIC32AK1216GC41064"        
+            - name: "PIC32AK1216GC41064"

@@ -23,9 +23,12 @@ productFamilies:
             - name: "SAM9X72"
             - name: "SAM9X75"
             - name: "SAM9X75D1G"
+            - name: "SAM9X75D1GN2"
             - name: "SAM9X75D1M"
             - name: "SAM9X75D2G"
+            - name: "SAM9X75D2GN4"
             - name: "SAM9X75D5M"
+            - name: "SAM9X75D5MN0"
         - name: "ATSAMA5D2"
           keywords: "mpu cortex-a5 industrial"
           devices:

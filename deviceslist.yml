@@ -1031,7 +1031,7 @@ productFamilies:
             - name: "PIC32CZ4010CA91176S1"
             - name: "PIC32CZ4010CA91208S1"
     - name: "WBZ"
-      regex: "^(WBZ[346]5.*|PIC32WM_BZ6.*)"
+      regex: "^(WBZ[346]5.*|PIC32WM_BZ6.*|PIC32WM_TF1)"
       productSeries:
         - name: "WBZ"
           keywords: "cortex-m4 wireless"
@@ -1045,6 +1045,7 @@ productFamilies:
             - name: "PIC32WM_BZ3602"
             - name: "WBZ653"
             - name: "PIC32WM_BZ6204"
+            - name: "PIC32WM_TF1"
     - name: "WLR"
       regex: "^WLR.*"
       productSeries:

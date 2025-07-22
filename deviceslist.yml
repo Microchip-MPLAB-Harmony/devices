@@ -846,6 +846,13 @@ productFamilies:
             - name: "PIC32CM5112SG00100"
             - name: "PIC32CM5112SG00064"
             - name: "PIC32CM5112SG00048"
+        - name: "PIC32CM PL10"
+          keywords: "cortex-m0+ industrial"
+          devices:
+            - name: "PIC32CM6408PL10028"
+            - name: "PIC32CM6408PL10032"
+            - name: "PIC32CM6408PL10048"
+            - name: "PIC32CM6408PL10064"
         - name: "PIC32CX SG"
           keywords: "cortex-m4 industrial security"
           devices:

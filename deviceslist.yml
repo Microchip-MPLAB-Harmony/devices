@@ -67,6 +67,7 @@ productFamilies:
             - name: "SAMA7D65D2G"
             - name: "SAMA7D65D2GN8"
             - name: "SAMA7D65D4G"
+            - name: "SAMA7D65D5M"
     - name: "ATSAM"
       regex: "^ATSAM.*"
       productSeries:

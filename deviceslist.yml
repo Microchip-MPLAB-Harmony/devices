@@ -849,6 +849,13 @@ productFamilies:
         - name: "PIC32CM PL10"
           keywords: "cortex-m0+ industrial"
           devices:
+            - name: "PIC32CM1216PL10028"
+            - name: "PIC32CM1216PL10032"
+            - name: "PIC32CM1216PL10048"
+            - name: "PIC32CM1216PL10064"
+            - name: "PIC32CM3204PL10020"
+            - name: "PIC32CM3204PL10028"
+            - name: "PIC32CM3204PL10032"
             - name: "PIC32CM6408PL10028"
             - name: "PIC32CM6408PL10032"
             - name: "PIC32CM6408PL10048"
